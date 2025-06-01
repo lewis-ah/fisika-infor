@@ -1,1 +1,1 @@
-# fisika-infor
+jalankan project di Main.java
